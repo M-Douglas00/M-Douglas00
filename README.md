@@ -14,8 +14,8 @@ Obrigado por visitar o meu perfil e espero poder colaborar com a comunidade em b
 
  <div>
    <a href="https://github.com/Dev-Derra">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M-Douglas00&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Douglas00&layout=compact&langs_count=6&theme=radical"/>
+   <img height="42%" src="https://github-readme-stats.vercel.app/api?username=M-Douglas00&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Douglas00&layout=compact&langs_count=6&theme=radical"/>
 
 </div>
 <div style="display: inline_block"><br>
