@@ -35,5 +35,5 @@ Obrigado por visitar o meu perfil e espero poder colaborar com a comunidade em b
   <a href = "mailto:mdmcruz25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/michael-douglas-matias-da-cruz-17b6211ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![Snake animation](https://github.com/M-Douglas00/M-Douglas00/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/M-Douglas00/blob/output/github-contribution-grid-snake.svg)
 </div>
